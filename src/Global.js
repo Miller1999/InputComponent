@@ -36,6 +36,7 @@ export const StyledDiv = styled.div`
     padding: 0px 50px;
     gap:10px;
     margin:10px;
+    position: relative;
 `
 
 
